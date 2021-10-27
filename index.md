@@ -7,15 +7,12 @@ layout: default
 ### You can see my details Projects from [Here](https://github.com/DGSWDongHyun?tab=repositories).
 
 
-
-
 ## MY Information
 
 ### Name : DongHyun, Yang
 ### Age : 19 ( In Korean. )
 ### BirthDay : 02.24.2003
 ### BirthPlace : Republic of Korea, Daegu.
-
 
 
 ## My Major Career
