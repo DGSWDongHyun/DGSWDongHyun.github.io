@@ -4,7 +4,7 @@ layout: default
 
 # Hello. I'm **DongHyun, Yang** 
 ## I'm **Android Developer** who makes better world.
-### You can see my details portfolio from [here](https://github.com/DGSWDongHyun?tab=repositories).
+### You can see my details Projects from [Here](https://github.com/DGSWDongHyun?tab=repositories).
 
 ## MY Information
 
