@@ -2,6 +2,10 @@
 layout: default
 ---
 
+# Hello. I'm **DongHyun, Yang** 
+## I'm **Android Developer** who makes better world.
+### You can see my details portfolio from [here](https://github.com/DGSWDongHyun?tab=repositories).
+
 Text can be **bold**, _italic_, or ~~strikethrough~~.
 
 [Link to another page](./another-page.html).
