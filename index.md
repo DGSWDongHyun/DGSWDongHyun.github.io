@@ -6,13 +6,18 @@ layout: default
 ## I'm **Android Developer** who makes better world.
 ### You can see my details portfolio from [here](https://github.com/DGSWDongHyun?tab=repositories).
 
+## MY Information
+
+### Name : DongHyun, Yang
+### Age : 19 ( In Korean. )
+### BirthDay : 02.24.2003
+### BirthPlace : Republic of Korea, Daegu.
 
 # My Major Career
   - WADDLE Corporation. ( 2021.7.14 - 10.8 )
     - For Android Developer 
 
 
-    
 Text can be **bold**, _italic_, or ~~strikethrough~~.
 
 [Link to another page](./another-page.html).
