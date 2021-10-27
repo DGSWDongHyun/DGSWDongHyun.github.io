@@ -9,14 +9,16 @@ layout: default
 
 
 
-## MY Information ![Octocat](https://github.githubassets.com/images/icons/emoji/octocat.png)
+## MY Information
 
 ### Name : DongHyun, Yang
 ### Age : 19 ( In Korean. )
 ### BirthDay : 02.24.2003
 ### BirthPlace : Republic of Korea, Daegu.
 
-# My Major Career
+
+
+## My Major Career
   - WADDLE Corporation. ( 2021.7.14 - 10.8 )
     - For Android Developer 
 
