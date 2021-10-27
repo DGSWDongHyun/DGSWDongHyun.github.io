@@ -6,7 +6,10 @@ layout: default
 ## I'm **Android Developer** who makes better world.
 ### You can see my details Projects from [Here](https://github.com/DGSWDongHyun?tab=repositories).
 
-## MY Information
+
+
+
+## MY Information ![Octocat](https://github.githubassets.com/images/icons/emoji/octocat.png)
 
 ### Name : DongHyun, Yang
 ### Age : 19 ( In Korean. )
